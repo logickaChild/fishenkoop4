@@ -75,7 +75,10 @@ footer {
 	justify-content: space-between;
 }
 .gallery img {
-	max-width:33%;
+	max-width:33%;}
+.first img {
+	text-align:center;
+}
 h2 {
    color: white;
    text-align: center;
@@ -83,7 +86,6 @@ h2 {
 }
 img {
     border-radius: 10px;
-   text-align:center;
 }
 ul {
     list-style-type: none;
