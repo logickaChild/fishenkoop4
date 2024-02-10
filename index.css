@@ -76,9 +76,11 @@ footer {
 }
 .gallery img {
 	max-width:33%;}
-.first img {
+.first {
 	text-align:center;
 }
+.first p{
+	text-align:left;
 h2 {
    color: white;
    text-align: center;
