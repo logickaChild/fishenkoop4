@@ -71,7 +71,7 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	width: 100%;
-	gap:10px
+	gap:10px;
 	justify-content: space-between;
 }
 .gallery img {
